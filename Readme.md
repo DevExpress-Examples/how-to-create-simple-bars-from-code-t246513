@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainPage.xaml](./CS/CreateBarsFromCode/MainPage.xaml) (VB: [MainPage.xaml](./VB/CreateBarsFromCode/MainPage.xaml))**
+* [MainPage.xaml.cs](./CS/CreateBarsFromCode/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/CreateBarsFromCode/MainPage.xaml))
+* [MainWindow.xaml](./CS/CreateBarsFromCode/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/CreateBarsFromCode/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/CreateBarsFromCode/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CreateBarsFromCode/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to create simple bars from code
 
 
